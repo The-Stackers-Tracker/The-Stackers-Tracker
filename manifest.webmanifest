@@ -1,6 +1,6 @@
 {
- "name": "Stack Tracker",
- "short_name": "Stack Tracker",
+ "name": "The Stackers Tracker",
+ "short_name": "Stackers Tracker",
  "description": "Track your gold, silver and other precious metals.",
  "start_url": "./",
  "scope": "./",
