@@ -43,6 +43,10 @@ Everything you enter stays in your browser on that device. Nothing is sent to us
 
 Live prices and collector values need free keys from [MetalpriceAPI](https://metalpriceapi.com) and [Numista](https://en.numista.com/api/). The app walks you through this. You can also type prices in by hand.
 
+## What's new
+
+After each update the app shows a short **What's new** box. You can open it again under **Settings → Help & about → What's new**. Every past update is listed on the [updates page](https://github.com/The-Stackers-Tracker/The-Stackers-Tracker/commits/main).
+
 ## Feedback
 
 Ideas or problems? Email **thestackerstracker@gmail.com**.
