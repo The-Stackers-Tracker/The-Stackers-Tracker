@@ -1,6 +1,6 @@
 // The Stackers Tracker service worker: lets the app open offline and install as an app.
 // Change VERSION with every update so phones fetch the new files.
-const VERSION='stack-tracker-b64';
+const VERSION='stack-tracker-b65';
 const FILES=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./icon-maskable-512.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(VERSION).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==VERSION).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});
