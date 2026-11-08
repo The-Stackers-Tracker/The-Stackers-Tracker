@@ -11,7 +11,7 @@ Track your gold, silver and other precious metals: what you paid, what it's wort
 
 ## Install it
 
-The app runs in your browser. Installing it gives it its own icon and lets it work without internet. It's free and optional. The app shows these steps the first time you open it, and they're also under **Settings → Help & about → Installing the app**.
+The app runs in your browser. Installing it gives it its own icon and lets it work without internet. It's free and optional. The app shows these steps the first time you open it, and they're also under **Settings → Help & About → Installing the App**.
 
 ### Android (Chrome, Brave or Samsung Internet)
 
@@ -45,7 +45,7 @@ Live prices and collector values need free keys from [MetalpriceAPI](https://met
 
 ## What's new
 
-After each update the app shows a short **What's new** box. You can open it again under **Settings → Help & about → What's new**. Every past update is listed on the [updates page](https://github.com/The-Stackers-Tracker/The-Stackers-Tracker/commits/main).
+After each update the app shows a short **What's New** box. You can open it again under **Settings → Help & About → What's New**. Every past update is listed on the [updates page](https://github.com/The-Stackers-Tracker/The-Stackers-Tracker/commits/main).
 
 ## Feedback
 
