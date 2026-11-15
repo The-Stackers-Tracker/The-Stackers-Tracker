@@ -16,9 +16,12 @@ The app runs in your browser. Installing it gives it its own icon and lets it wo
 ### Android (Chrome, Brave or Samsung Internet)
 
 1. Open the link above.
-2. Tap the browser's menu: **⋮** at the top or bottom (**≡** in Samsung Internet).
-3. Tap **Install app** or **Add to Home screen**, then **Install**.
-4. Open The Stackers Tracker from its new icon.
+2. Tap the browser's menu: **⋮** in Chrome, **≡** in Brave and Samsung Internet.
+3. Tap **Install app** or **Add to Home screen**.
+4. If it asks, choose **Install**, not "Create shortcut". A shortcut just opens a normal browser tab.
+5. Open The Stackers Tracker from its new icon.
+
+If it worked, there's no web address bar at the top and the app is in your app drawer. If you still see the address bar, remove the icon and try again (your data stays safe).
 
 ### iPhone or iPad
 
