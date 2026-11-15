@@ -7,7 +7,7 @@ Track your gold, silver and other precious metals: what you paid, what it's wort
 - Live spot prices for silver, gold, platinum, palladium, rhodium and copper, in your own currency
 - Bullion, junk silver and collectible coins, with photos, places and sales
 - Goals, date sets and collector values
-- No account and no sign-up. Your data stays on your own device.
+- No account and no sign-up. Your data stays on your own device, and you can lock it with your phone's screen lock, a PIN, a password or a pattern.
 
 ## Install it
 
@@ -40,6 +40,8 @@ On a Mac in Safari, choose **File → Add to Dock**. Firefox can't install apps,
 ## Your data
 
 Everything you enter stays in your browser on that device. Nothing is sent to us. Clearing your browser data or losing your phone erases it, so export a backup now and then (**Settings → Backup → Export**) and keep the file somewhere safe. To move to a new device, open the app there and import that file.
+
+To keep your stack private, turn on protection in **Settings → Security**. The app then asks for your lock every time you open it, and your data, photos included, is stored scrambled on the device. Backups are locked with a backup password you choose, so you can keep them in Google Drive or email. Write down your Recovery Code and backup password: nobody can unlock your data without them, not even us.
 
 Live prices and collector values need free keys from [MetalpriceAPI](https://metalpriceapi.com) and [Numista](https://en.numista.com/api/). The app walks you through this. You can also type prices in by hand.
 
