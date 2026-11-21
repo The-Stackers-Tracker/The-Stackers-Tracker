@@ -52,6 +52,10 @@ Live prices and collector values need free keys from [MetalpriceAPI](https://met
 
 After each update the app shows a short **What's New** box. You can open it again under **Settings → Help & About → What's New**. Every past update is listed on the [updates page](https://github.com/The-Stackers-Tracker/The-Stackers-Tracker/commits/main).
 
+## Why is it free?
+
+The Stackers Tracker is free and always will be: no ads, no tracking and no paid extras. If it's helped you, you can leave a small tip on [Ko-fi](https://ko-fi.com/), or tap **Support the App** in **Settings → Help & About**. No pressure, and every feature stays free for everyone.
+
 ## Feedback
 
 Ideas or problems? Email **thestackerstracker@gmail.com**.
