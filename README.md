@@ -26,11 +26,13 @@ If it worked, there's no web address bar at the top and the app is in your app d
 ### iPhone or iPad
 
 1. Open the link above in **Safari**.
-2. Tap the **Share** button: the square with an arrow pointing up (bottom of the screen, or top right on iPad).
-3. Scroll down and tap **Add to Home Screen**, then **Add**.
+2. Tap the **Share** button: the square with an arrow pointing up (bottom of the screen, or top right on iPad). On newer iPhones, tap **•••** first, then **Share**.
+3. Scroll down and tap **Add to Home Screen**. Leave **Open as Web App** on, then tap **Add**.
 4. Open The Stackers Tracker from its new icon, and set it up there.
 
-Install it **before** you add anything. On iPhone and iPad the home-screen app keeps its own data, separate from Safari.
+Install it **before** you add anything. On iPhone and iPad the home-screen app keeps its own data, separate from Safari. Already added items in Safari? Make a backup there first (Settings → Backup), then import it in the new app.
+
+In a Safari tab, iPhone can erase the app's data if you don't open it for 7 days. Apps added to the Home Screen are safe.
 
 ### Computer (Windows or Mac)
 
